@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.aictsd.com/wp-content/uploads/2023/02/Student-on-computer-gif1.gif">
 
-- 👋 Hi there! I am currently finishing my Bachelor's degree in Computer Engineering at the Instituto Superior de Engenharia de Lisboa (ISEL). My passion for technology and software development has driven me to explore various fields, from programming and web development to artificial intelligence and software engineering. On GitHub, I share the projects I'm working on, contribute to the community, and continuously improve my skills. Follow my repositories to see what I'm up to, and feel free to collaborate or leave suggestions!
+- 👋 Hi there! I am currently finishing my degree in Computer Engineering at the Instituto Superior de Engenharia de Lisboa (ISEL). My passion for technology and software development has driven me to explore various fields, from programming and web development to artificial intelligence and software engineering. On GitHub, I share the projects I'm working on, contribute to the community, and continuously improve my skills. Follow my repositories to see what I'm up to, and feel free to collaborate or leave suggestions!
 - 📫 How to reach me: **2003rfco@gmail.com**
 
 - ⚡ Fun fact: **Currently playing Pro Basketball 🏀**
